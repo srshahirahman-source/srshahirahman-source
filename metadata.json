@@ -1,0 +1,6 @@
+{
+  "name": "আমাদের মেস - Amader Mess",
+  "description": "অফলাইন মেস ও মিল ম্যানেজমেন্ট অ্যাপ - মেম্বার, মিল এন্ট্রি, বাজার খরচ ও ব্যালেন্স হিসাব",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
